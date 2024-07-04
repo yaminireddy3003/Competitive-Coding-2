@@ -2,7 +2,7 @@
 //space complexity O(M*N) - creating a new dp matrix
 
 class KnapSack {
-    
+    //*****Exhaustive approach */
     // public static int[] weights = {1,2,3};
     // public static int[] costs = {60,100,120};
     // public static int maxWeight = 5;
